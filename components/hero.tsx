@@ -26,7 +26,7 @@ export default function Hero() {
                     <Link className="btn text-zinc-100 bg-zinc-900 hover:bg-zinc-800 w-full shadow" href="/request-demo">Book a meeting</Link>
                   </div>
                   <div>
-                    <a className="btn text-zinc-600 bg-white hover:text-zinc-900 w-full shadow" href="#0">Get started</a>
+                    <a className="btn text-zinc-600 bg-white hover:text-zinc-900 w-full shadow" href="#0">VET your idea</a>
                   </div>
                 </div>
               </div>
